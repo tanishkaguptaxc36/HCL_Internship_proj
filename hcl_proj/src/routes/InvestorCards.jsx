@@ -1,5 +1,5 @@
 import corporateGov from '../assets/corporate_gov.png';
-import investorPres from '../assets/investorpresentation.png';
+import investorPres from '../assets/invespres.png';
 import financialReports from '../assets/financialreport.png';
 import shareHolderReference from '../assets/shareholder.png';
 import financial_Press from '../assets/financial_press_release.png';
